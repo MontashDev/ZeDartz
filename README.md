@@ -17,6 +17,7 @@
 
 <p align="center">
 <img src="https://lh3.googleusercontent.com/proxy/nXq523FUTmqgG8wXf4t2WOQwOdqEaosNwiYuDWrLSqQ8EriKRaqDi-jqu4bCzPPq5DpRCXm_IpNFqXtvihYDbiZBfgLhuiFl5a6CvuFJVtf-CmF3_ZKhPg" alt="Java" height="40" width ="36" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" height="40" width ="36" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
@@ -24,4 +25,5 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://www.hugochaume.com/wp-content/uploads/2016/02/solutions_bootstrap.png" alt="BootStrap" height="40" width = "36" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/fr/f/fe/SceneBuilderLogo.png" alt="Gluon" height="40" width = "36" style="vertical-align:top; margin:4px">
 </p>
