@@ -16,7 +16,7 @@
 ## 🧰 Languages and Tools:
 
 <p align="center">
-<img src="https://lh3.googleusercontent.com/proxy/nXq523FUTmqgG8wXf4t2WOQwOdqEaosNwiYuDWrLSqQ8EriKRaqDi-jqu4bCzPPq5DpRCXm_IpNFqXtvihYDbiZBfgLhuiFl5a6CvuFJVtf-CmF3_ZKhPg" alt="Java" height="40" width ="36" style="vertical-align:top; margin:4px">
+<img src="https://lh3.googleusercontent.com/proxy/nXq523FUTmqgG8wXf4t2WOQwOdqEaosNwiYuDWrLSqQ8EriKRaqDi-jqu4bCzPPq5DpRCXm_IpNFqXtvihYDbiZBfgLhuiFl5a6CvuFJVtf-CmF3_ZKhPg" alt="Java" height="48" width ="42" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ" height="40" width ="36" style="vertical-align:top; margin:4px">
 <img src="http://aurelie-clavier.fr/assets/img/sql.png" alt="SQL" height="40" width="50"style="vertical-align:top; margin:4px">
 <img src="https://www.mamp.info/images/icons/mamp-pro.png" alt="MAMP" height="40" width ="36" style="vertical-align:top; margin:4px">
