@@ -18,6 +18,7 @@
 <p align="center">
 <img src="https://lh3.googleusercontent.com/proxy/nXq523FUTmqgG8wXf4t2WOQwOdqEaosNwiYuDWrLSqQ8EriKRaqDi-jqu4bCzPPq5DpRCXm_IpNFqXtvihYDbiZBfgLhuiFl5a6CvuFJVtf-CmF3_ZKhPg" alt="Java" height="40" width ="36" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ" height="40" width ="36" style="vertical-align:top; margin:4px">
+<img src="https://img2.freepng.fr/20180526/oqt/kisspng-microsoft-sql-server-mysql-database-logo-5b098c6ebad6d7.7316225815273524307653.jpg" alt="SQL" height="40" width="50"style="vertical-align:top; margin:4px">
 <img src="https://www.mamp.info/images/icons/mamp-pro.png" alt="MAMP" height="40" width ="36" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" height="40" width ="36" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
