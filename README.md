@@ -23,5 +23,5 @@
 <img src="https://blog.ninja-squad.com/assets/images/angular.png" alt="Angular" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
-<img src="https://img2.freepng.fr/20180512/stw/kisspng-bootstrap-responsive-web-design-web-development-lo-5af676c04b0535.2749534815261016963073.jpg" alt="BootStrap" height="40" width = "36" style="vertical-align:top; margin:4px">
+<img src="https://www.hugochaume.com/wp-content/uploads/2016/02/solutions_bootstrap.png" alt="BootStrap" height="40" width = "36" style="vertical-align:top; margin:4px">
 </p>
