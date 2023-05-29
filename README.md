@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thomas Ninci alias @ZeDartz on github
 - 📫 Currently studying computer science in a master oriented software and application
-- 🌱 Also learning the PHP backend developer's job on my own
+- 🌱 Also working on my personnal website in ANgular
 - 💞️ Looking to collaborate on mutiple projects who will bring me some knowledge in this path
 
 ## ✉️ Find me on:
